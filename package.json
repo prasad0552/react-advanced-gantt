@@ -1,10 +1,10 @@
 {
-  "name": "react-advanced-gantt",
-  "version": "0.1.0",
+  "name": "@binarybuddies/react-advanced-gantt",
+  "version": "0.0.1",
   "description": "A powerful, customizable Gantt chart component for React applications",
   "type": "module",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/react-advanced-gantt.cjs.js",
+  "module": "dist/react-advanced-gantt.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
