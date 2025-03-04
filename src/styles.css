@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gantt-body {
+  min-height: 200px;
+}
+
+.gantt-task-bar {
+  transition: all 0.2s ease;
+}
+
+.gantt-task-bar:hover {
+  opacity: 1 !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
